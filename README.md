@@ -1,9 +1,5 @@
 # Hey, I'm Maksym Spizhovyi 👋
 
-## About Me
-
-I am a dedicated software developer currently pursuing a diploma in Computer Information Systems at **Okanagan College**, with a focus on **Java**, **Data Structures**, **Networking**, and **Unix**. My academic journey has equipped me with the technical foundation to build scalable and efficient software solutions.
-
 ## 🛠 Skills and Expertise
 
 - **Frontend Development:** React.js (React Router, Redux, Redux Toolkit), JavaScript, HTML5, CSS3
@@ -24,9 +20,9 @@ In addition to my studies and personal growth, I have completed freelance projec
 - **J&R Custom Woodwork:** Designed and developed a modern website to showcase custom woodworking products, enhancing client engagement.  
   **[View Demo](https://jrcustomwoodwork.ca)**
 
-## Professional Development
+## About Me
 
-With over three years of experience in **JavaScript** application development, I have advanced my frontend development skills by completing hands-on projects and courses taught by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) on **Udemy**. These experiences enabled me to master React.js and its ecosystem, including **React Router**, **Redux**, and **Redux Toolkit**, allowing me to create dynamic, user-centric interfaces. Inspired by **Robert C. Martin’s (Clean Code)**, I strive to write expressive, maintainable code and excel at breaking down complex tasks into manageable components.
+I am a dedicated software developer currently pursuing a diploma in Computer Information Systems at **Okanagan College**, with a focus on **Java**, **Data Structures**, **Networking**, and **Unix**. My academic journey has equipped me with the technical foundation to build scalable and efficient software solutions. With over three years of experience in **JavaScript** application development, I have advanced my frontend development skills by completing hands-on projects and courses taught by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) on **Udemy**. These experiences enabled me to master React.js and its ecosystem, including **React Router**, **Redux**, and **Redux Toolkit**, allowing me to create dynamic, user-centric interfaces. Inspired by **Robert C. Martin’s (Clean Code)**, I strive to write expressive, maintainable code and excel at breaking down complex tasks into manageable components.
 
 ## 📚 Favourite Books
 
