@@ -8,15 +8,20 @@ I am a dedicated software developer currently pursuing a diploma in Computer Inf
 
 In addition to my studies and personal growth, I have completed freelance projects for local businesses in Kelowna, contributing to their productivity and digital presence. These include:
 
-- **[ANDOR’s Blinds](#):** Revamped the company’s website to improve user experience and drive online lead generation.
-- **[Ruta Roots Landscaping](#):** Created an intuitive platform to streamline customer inquiries and improve service scheduling.
-- **[J&R Custom Woodwork](#):** Designed and developed a modern website to showcase custom woodworking products, enhancing client engagement.
+- **ANDOR’s Blinds:** Revamped the company’s website to improve user experience and drive online lead generation.
+    [View Demo](#https://andorsblinds.ca)
+
+- **Ruta Roots Landscaping:** Created an intuitive platform to streamline customer inquiries and improve service scheduling.
+    [View Demo](#https://www.rutarootslandscaping.com)
+
+- **[J&R Custom Woodwork](#https://jrcustomwoodwork.ca/):** Designed and developed a modern website to showcase custom woodworking products, enhancing client engagement.
+    [View Demo](#https://www.rutarootslandscaping.com)
 
 ## Professional Development
 
 With over three years of experience in **JavaScript** application development, I have advanced my frontend development skills by completing hands-on projects and courses taught by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) on **Udemy**. These experiences enabled me to master React.js and its ecosystem, including **React Router**, **Redux**, and **Redux Toolkit**, allowing me to create dynamic, user-centric interfaces. Inspired by **Robert C. Martin’s (Clean Code)**, I strive to write expressive, maintainable code and excel at breaking down complex tasks into manageable components.
 
-## Favourite Books
+## 📚 Favourite Books
 
 - **Clean Code** by Robert C. Martin
 - **Clean Architecture** by Robert C. Martin
