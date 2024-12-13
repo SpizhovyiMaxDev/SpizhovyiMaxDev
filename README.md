@@ -4,6 +4,13 @@
 
 I am a dedicated software developer currently pursuing a diploma in Computer Information Systems at **Okanagan College**, with a focus on **Java**, **Data Structures**, **Networking**, and **Unix**. My academic journey has equipped me with the technical foundation to build scalable and efficient software solutions.
 
+## 🛠 Skills and Expertise
+
+- **Frontend Development:** React.js (React Router, Redux, Redux Toolkit), JavaScript, HTML5, CSS3
+- **Backend Development:** Java, Data Structures, Networking
+- **Development Tools:** Git, and modern CI/CD pipelines
+- **Operating Systems:** Unix/Linux/macOS
+
 ## Freelance Projects
 
 In addition to my studies and personal growth, I have completed freelance projects for local businesses in Kelowna, contributing to their productivity and digital presence. These include:
@@ -23,19 +30,13 @@ With over three years of experience in **JavaScript** application development, I
 
 ## 📚 Favourite Books
 
-- **Clean Code** by Robert C. Martin  
-- **Clean Architecture** by Robert C. Martin  
-
-## 🛠 Skills and Expertise
-
-- **Frontend Development:** React.js (React Router, Redux, Redux Toolkit), JavaScript, HTML5, CSS3  
-- **Backend Development:** Java, Data Structures, Networking  
-- **Development Tools:** Git, and modern CI/CD pipelines  
-- **Operating Systems:** Unix/Linux/macOS  
+- **Clean Code** by Robert C. Martin
+- **Clean Architecture** by Robert C. Martin
 
 ## 🚀 Let’s Connect!
 
 I am actively seeking opportunities to contribute my skills and grow as part of a dynamic team. Let’s connect:
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Portfolio](https://yourportfolio.com)
+- **Linked In Profile** [View a Profile](https://linkedin.com/in/yourprofile)
+
+- **My Website** [Go to a website](https://linkedin.com/in/yourprofile)
