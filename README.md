@@ -1,4 +1,4 @@
-# Hello, I'm Maksym Spizhovyi 👋
+# Hey, I'm Maksym Spizhovyi 👋
 
 ## About Me
 
@@ -9,13 +9,13 @@ I am a dedicated software developer currently pursuing a diploma in Computer Inf
 In addition to my studies and personal growth, I have completed freelance projects for local businesses in Kelowna, contributing to their productivity and digital presence. These include:
 
 - **ANDOR’s Blinds:** Revamped the company’s website to improve user experience and drive online lead generation.
-    [View Demo](#https://andorsblinds.ca)
+  **[View Demo](#https://andorsblinds.ca)**
 
 - **Ruta Roots Landscaping:** Created an intuitive platform to streamline customer inquiries and improve service scheduling.
-    [View Demo](#https://www.rutarootslandscaping.com)
+  **[View Demo](#https://www.rutarootslandscaping.com)**
 
 - **[J&R Custom Woodwork](#https://jrcustomwoodwork.ca/):** Designed and developed a modern website to showcase custom woodworking products, enhancing client engagement.
-    [View Demo](#https://www.rutarootslandscaping.com)
+  **[View Demo](#https://www.rutarootslandscaping.com)**
 
 ## Professional Development
 
