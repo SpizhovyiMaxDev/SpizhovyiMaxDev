@@ -1,4 +1,4 @@
-# Hey, I'm Maksym Spizhovyi 👋
+# 👋 Hey, I'm Maksym Spizhovyi
 
 ## 🛠 Skills and Expertise
 
@@ -17,7 +17,7 @@ In addition to my studies and personal growth, I have completed freelance projec
 - **Ruta Roots Landscaping:** Created an intuitive platform to streamline customer inquiries and improve service scheduling.  
   <a href="https://www.rutarootslandscaping.com" target="_blank">View Demo</a>
 
-- **J&R Custom Woodwork:** Designed and developed a modern website to showcase custom woodworking products, enhancing client engagement.  
+- **J&R Custom Woodwork:** Designed and developed a modern website to showcase custom furniture products, enhancing client engagement.  
   <a href="https://jrcustomwoodwork.ca" target="_blank">View Demo</a>
 
 ## About Me
