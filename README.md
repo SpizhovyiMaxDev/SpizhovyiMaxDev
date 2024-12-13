@@ -8,14 +8,14 @@ I am a dedicated software developer currently pursuing a diploma in Computer Inf
 
 In addition to my studies and personal growth, I have completed freelance projects for local businesses in Kelowna, contributing to their productivity and digital presence. These include:
 
-- **ANDOR’s Blinds:** Revamped the company’s website to improve user experience and drive online lead generation.
-  **[View Demo](#https://andorsblinds.ca)**
+- **ANDOR’s Blinds:** Revamped the company’s website to improve user experience and drive online lead generation.  
+  **[View Demo](https://andorsblinds.ca)**
 
-- **Ruta Roots Landscaping:** Created an intuitive platform to streamline customer inquiries and improve service scheduling.
-  **[View Demo](#https://www.rutarootslandscaping.com)**
+- **Ruta Roots Landscaping:** Created an intuitive platform to streamline customer inquiries and improve service scheduling.  
+  **[View Demo](https://www.rutarootslandscaping.com)**
 
-- **[J&R Custom Woodwork](#https://jrcustomwoodwork.ca/):** Designed and developed a modern website to showcase custom woodworking products, enhancing client engagement.
-  **[View Demo](#https://www.rutarootslandscaping.com)**
+- **J&R Custom Woodwork:** Designed and developed a modern website to showcase custom woodworking products, enhancing client engagement.  
+  **[View Demo](https://jrcustomwoodwork.ca)**
 
 ## Professional Development
 
@@ -23,19 +23,19 @@ With over three years of experience in **JavaScript** application development, I
 
 ## 📚 Favourite Books
 
-- **Clean Code** by Robert C. Martin
-- **Clean Architecture** by Robert C. Martin
+- **Clean Code** by Robert C. Martin  
+- **Clean Architecture** by Robert C. Martin  
 
 ## 🛠 Skills and Expertise
 
-- **Frontend Development:** React.js (React Router, Redux, Redux Toolkit), JavaScript, HTML5, CSS3
-- **Backend Development:** Java, Data Structures, Networking
-- **Development Tools:** Git, and modern CI/CD pipelines
-- **Operating Systems:** Unix/Linux/macOS
+- **Frontend Development:** React.js (React Router, Redux, Redux Toolkit), JavaScript, HTML5, CSS3  
+- **Backend Development:** Java, Data Structures, Networking  
+- **Development Tools:** Git, and modern CI/CD pipelines  
+- **Operating Systems:** Unix/Linux/macOS  
 
 ## 🚀 Let’s Connect!
 
 I am actively seeking opportunities to contribute my skills and grow as part of a dynamic team. Let’s connect:
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
 - [Portfolio](https://yourportfolio.com)
