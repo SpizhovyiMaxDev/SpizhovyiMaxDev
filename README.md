@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Maksym Spizhovyi
 
-## 🛠 Skills and Expertise
+## Skills and Expertise
 
 - **Frontend Development:** React.js (React Router, Redux, Redux Toolkit), JavaScript, HTML5, CSS3
 - **Backend Development:** Java, Data Structures, Networking
