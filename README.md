@@ -4,7 +4,7 @@
 
 - **Frontend Development:** React.js (React Router, Redux, Redux Toolkit), JavaScript, HTML5, CSS3
 - **Backend Development:** Java, Data Structures, Networking
-- **Development Tools:** Git, and modern CI/CD pipelines
+- **Development Tools:** Git, Google Analytics, Bash, Figma
 - **Operating Systems:** Unix/Linux/macOS
 
 ## Freelance Projects
