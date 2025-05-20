@@ -10,7 +10,7 @@
 
 ## 🧩 About Me
 
-I’m a very ambitious software developer with a unique background that has shaped me into a strong team player who communicates clearly, thinks critically, and approaches every challenge with confidence and precision. I’m driven by a desire to grow, improve, and build meaningful solutions through well-structured, maintainable code.
+I’m a software developer with a unique background that has shaped me into a strong team player who communicates clearly, thinks critically, and approaches every challenge with confidence and precision. I’m driven by a desire to grow, improve, and build meaningful solutions through well-structured, maintainable code.
 
 ## 📚 Favourite Books
 
