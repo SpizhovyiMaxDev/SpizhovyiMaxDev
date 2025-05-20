@@ -6,7 +6,7 @@
 - **Backend Development:** Java, Hibernate, Spring, Spring Boot, SQL
 - **Methodologies:** Agile development, SDLC
 - **Development Tools:** Git, Google Analytics, Bash, Figma
-- **Operating Systems:** Unix/Linux/macOS
+- **Operating Systems:** Unix, Linux, macOS
 
 ## 🧩 About Me
 
