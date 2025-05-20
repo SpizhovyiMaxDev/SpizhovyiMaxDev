@@ -13,12 +13,14 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>&nbsp;&nbsp;
   <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>&nbsp;&nbsp;  
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
 </p>
+
 
 **Frontend Development:** JavaScript, HTML5, CSS3, React.js, Redux, Redux Toolkit, Tailwind, Styled Components  
 **Backend Development:** Java, Hibernate, Spring, Spring Boot, SQL  
