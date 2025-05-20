@@ -3,18 +3,18 @@
 ## 🛠️ Skills and Expertise
 
 <p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width="40"/></a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>&nbsp;&nbsp;
   <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width="40"/></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
 </p>
 
