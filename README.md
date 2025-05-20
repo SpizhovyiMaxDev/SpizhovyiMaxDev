@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Maksym Spizhovyi
 
+---
+
 ## 🛠️ Skills and Expertise
 
 <p align="left">
