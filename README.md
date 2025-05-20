@@ -3,7 +3,6 @@
 ## 🛠️ Skills and Expertise
 
 <p align="left">
-  &nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>&nbsp;&nbsp;
