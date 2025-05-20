@@ -19,8 +19,6 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a>&nbsp;&nbsp;
 </p>
 
-### Languages and Tools:
-
 **Frontend Development:** JavaScript, HTML5, CSS3, React.js, Redux, Redux Toolkit, Tailwind, Styled Components  
 **Backend Development:** Java, Hibernate, Spring, Spring Boot, SQL  
 **Methodologies:** Agile development, SDLC  
