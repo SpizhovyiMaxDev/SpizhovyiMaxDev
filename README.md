@@ -2,8 +2,6 @@
 
 ## 🛠️ Skills and Expertise
 
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   &nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>&nbsp;&nbsp;
@@ -21,6 +19,7 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
 </p>
 
+### Languages and Tools:
 
 - **Frontend Development:** JavaScript, HTML5, CSS3, React.js, Redux, Redux Toolkit, Tailwind, Styled Components
 - **Backend Development:** Java, Hibernate, Spring, Spring Boot, SQL
