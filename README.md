@@ -21,11 +21,12 @@
 
 ### Languages and Tools:
 
-**Frontend Development:** JavaScript, HTML5, CSS3, React.js, Redux, Redux Toolkit, Tailwind, Styled Components
-**Backend Development:** Java, Hibernate, Spring, Spring Boot, SQL
-**Methodologies:** Agile development, SDLC
-**Development Tools:** Git, Google Analytics, Bash, Figma
-**Operating Systems:** Unix, Linux, macOS
+**Frontend Development:** JavaScript, HTML5, CSS3, React.js, Redux, Redux Toolkit, Tailwind, Styled Components  
+**Backend Development:** Java, Hibernate, Spring, Spring Boot, SQL  
+**Methodologies:** Agile development, SDLC  
+**Development Tools:** Git, Google Analytics, Bash, Figma  
+**Operating Systems:** Unix, Linux, macOS  
+
 
 ## 🧩 About Me
 
