@@ -24,16 +24,18 @@
 **Backend Development:** Java, Hibernate, Spring, Spring Boot, SQL  
 **Methodologies:** Agile development, SDLC  
 **Development Tools:** Git, Google Analytics, Bash, Figma  
-**Operating Systems:** Unix, Linux, macOS  
-
+**Operating Systems:** Unix, Linux, macOS
 
 ## 🧩 About Me
 
 I’m a software developer with a unique background that has shaped me into a strong team player who communicates clearly, thinks critically, and approaches every challenge with confidence and precision. I’m driven by a desire to grow, improve, and build meaningful solutions through well-structured, maintainable code.
 
-
-## 🚀 Let’s Connect!
-
-- **Linked In Profile** <a href="https://www.linkedin.com/in/max-spizhovyi-627671283/" target="_blank">View a Profile</a>
-
-- **My Website** <a href="https://maxweb.studio/" target="_blank">Visit my website</a>
+<a href="https://maxweb.studio" target="_blank">
+  <img src="https://img.shields.io/badge/-Website-000?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/max-spizhovyi-627671283/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@MaxSpizhovyi" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
