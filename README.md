@@ -35,4 +35,4 @@ I’m a software developer with a unique background that has shaped me into a st
 
 <a href="https://maxdev.website" target="_blank"><img src="https://img.shields.io/badge/-Website-000?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/max-spizhovyi-627671283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@MaxSpizhovyi" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.youtube.com/@maxdev.codes_with_love" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
