@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Maksym Spizhovyi
+# 👋 Hey, I'm Max - Passionate Dev
 
 
 ## 🛠️ Skills and Expertise
