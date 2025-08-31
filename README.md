@@ -15,6 +15,7 @@
   <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="40"/></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a>&nbsp;&nbsp;
@@ -22,7 +23,7 @@
 </p>
 
 
-**Frontend Development:** JavaScript, HTML5, CSS3, React.js, Redux, Redux Toolkit, Tailwind, Styled Components  
+**Frontend Development:** JS, TS, HTML5, CSS3, React, Redux, Redux Toolkit, Tailwind, Styled Components  
 **Backend Development:** Java, Hibernate, Spring, Spring Boot, SQL  
 **Methodologies:** Agile development, SDLC  
 **Development Tools:** Git, Google Analytics, Bash, Figma  
